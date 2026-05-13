@@ -1,7 +1,7 @@
 
 <!-- Animated Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=200&section=header&text=Kabita%20Khadka&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=200&section=header&text=Kabita%20Giri&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50"/>
 </p>
 
 <!-- Typing Animation -->
@@ -16,8 +16,8 @@
 I enjoy pushing the boundaries of technology and building innovative solutions.  
 I am passionate about **modern web development, backend systems, AI-based applications, and data analysis**.
 
-- 🌱 Currently learning **JavaScript, React.js, Node.js, PostgreSQL**
-- 🚀 Working on **Curex – AI-Based Healthcare System**
+- 🌱 Currently learning **JavaScript, React.js, Next.js, js**
+- 🚀 Working on **The Disaster Relief**
 - 💻 Building **full-stack projects**
 - 📫 Reach me at: **kabeetagiree45@gmail.com**
 
@@ -26,7 +26,7 @@ I am passionate about **modern web development, backend systems, AI-based applic
 # 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,postgres,java,python,git,github"/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,next.js,nodejs,express,MongoDB,python,git,github"/>
 </p>
 
 ---
