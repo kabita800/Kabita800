@@ -26,7 +26,7 @@ I am passionate about **modern web development, backend systems, AI-based applic
 # 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,next.js,nodejs,express,MongoDB,python,git,github"/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,next.js,nodejs,express,figma,MongoDB,python,git,github"/>
 </p>
 
 ---
